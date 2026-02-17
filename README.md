@@ -1,1 +1,1 @@
-# AI-Based-Construction-Safety-Helmet-Detection-System
+# VisionGuard AI
